@@ -4,9 +4,10 @@ Heard you like digging, so why not dig for some flags?
 
 [dig-host-1-web.hack.fe-ctf.dk](http://dig-host-1-web.hack.fe-ctf.dk)
 
-Det første man tænker er at man skal bruge værktøjet dig men i virkelig heder et det bar et coverup for at man først skal skrive dig command og derefter kan indputte hvilken som helst anden command man har lyst til
+Det første man tænker er at man skal bruge værktøjet dig men i virkelig heder et det bar et coverup for at man først skal skrive dig command og derefter kan indputte hvilken som helst anden command man har lyst til.
 
 **1:**
+
 ![billede.png](attachments.42279/billede.png)
 
 **2:**
