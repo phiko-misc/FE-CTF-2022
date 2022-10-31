@@ -37,7 +37,7 @@ patchelf --remove-needed libnotfound.so ./challenge
 
 **6:** Vi kan se at der ude til venstre er nogle funktioner med følgene navne "foo_add", "foo_div", "foo_mod", "foo_mul", "foo_sub". Så gad vide om det ikke er dem der er i det mangle libary. Lad os tage et kig på dem.
 
-![Cutter2 (2).png](attachments.43647/Cutter2%20%282%29.png)
+![Cutter2.png](attachments.43647/Cutter2.png)
 
 **foo_add:**
 ![Cutter_foo_add.png](attachments.43647/Cutter_foo_add.png)
