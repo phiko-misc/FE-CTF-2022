@@ -1,7 +1,5 @@
 # Dig Host #1
 
-**Category** : web **Points** : 250
-
 Heard you like digging, so why not dig for some flags?
 
 [dig-host-1-web.hack.fe-ctf.dk](http://dig-host-1-web.hack.fe-ctf.dk)
